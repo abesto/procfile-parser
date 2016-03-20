@@ -13,9 +13,6 @@
     "dependencies" : {
         "underscore": "1.4.2"
     },
-    "engines" : {
-        "node" : "0.8.x"
-    },
     "engineStrict": true,
     "author" : {
         "name" : "Aaron O'Mullan",
